@@ -1,1 +1,1 @@
-# Time on Page
+# Active Time on Page
