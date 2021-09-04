@@ -1,0 +1,17 @@
+{
+	"name": "time-on-page",
+	"version": "1.0.0",
+	"author": "Brandon Ho <bhsoonzhi@gmail.com> (https://bhsz.me/)",
+	"license": "MIT",
+	"description": "Tracks active user time on page in seconds",
+	"keywords": [
+		"tracking",
+		"time on page",
+		"user activity"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bhsz/time-on-page.git"
+	},
+	"homepage": "https://github.com/bhsz/time-on-page#readme"
+}
