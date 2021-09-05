@@ -4,40 +4,29 @@ Tracks active user time on page (ToP) in seconds.
 
 Example can be found at [HERE](https://bhsz.me/AToP-example.html).
 
-<img src="./example.gif" width="800" height="450" />
+<img src="./example.gif" style="border: 3px solid black" width="800" height="450" />
 
-<br/>
 <br/>
 
 # Installation
 
 To use as vanilla Javascript, simply download and import `index.js` into your project.
 
-<br/>
-
-To use with NPM,
-
-```bash
-npm install active-time-on-page
-```
+To use with NPM, run `npm install active-time-on-page` from the command line.
 
 <br/>
 
 # API
 
-## startTimerOnPage()
+### startTimerOnPage()
 
 Starts timer on page. Listeners are added to the window's focus and blur events to toggle the timer.
 
-<br/>
-
-## getTimeOnPage()
+### getTimeOnPage()
 
 Returns active user ToP.
 
-<br/>
-
-## clearTimerOnPage()
+### clearTimerOnPage()
 
 Clears the timer by using clearInterval.
 
@@ -57,8 +46,6 @@ setInterval(() => {
 	// Do something with ToP
 }, 1000);
 ```
-
-<br/>
 
 React and NPM
 
