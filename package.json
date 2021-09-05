@@ -1,6 +1,6 @@
 {
 	"name": "active-time-on-page",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "Brandon Ho <bhsoonzhi@gmail.com> (https://bhsz.me/)",
 	"license": "MIT",
 	"description": "Tracks active user time on page in seconds",
