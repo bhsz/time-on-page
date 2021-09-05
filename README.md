@@ -2,9 +2,9 @@
 
 Tracks active user time on page (ToP) in seconds.
 
-Example can be found at [HERE](https://bhsz.me/AToP-example.html).
-
 <img src="./example.gif" style="border: 3px solid black" width="800" height="450" />
+
+Example page can be found at [HERE](https://bhsz.me/AToP-example.html).
 
 <br/>
 
