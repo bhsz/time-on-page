@@ -62,7 +62,7 @@ useEffect(() => {
 
 	return () => {
 		clearTimerOnPage();
-		clearInterval(logger);
+		clearInterval(handler);
 	};
 }, []);
 ```
