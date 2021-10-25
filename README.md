@@ -68,7 +68,3 @@ useEffect(() => {
 ```
 
 <br/>
-
-# Todo
-
-<input type="checkbox" disabled /> Tests
